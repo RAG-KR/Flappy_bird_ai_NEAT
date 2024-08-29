@@ -5,6 +5,10 @@ you have to install the requirements.txt file
 
 
 
+some resources that ive used are
+1.https://medium.com/@garybutler4/neat-implementing-my-first-research-paper-b0b0eba795b4
+2.https://neat-python.readthedocs.io/en/latest/neat_overview.html
+
 
 
 
